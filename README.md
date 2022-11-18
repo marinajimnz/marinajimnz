@@ -6,12 +6,12 @@
 ````CSS
 whoAmI{
   user: marinajimnz;
-  currently: working on some C projects at 42School,
-             learning HTML5, CSS3 and JavaScript;
+  currently: Working on some C projects at 42School,
+             Learning HTML5, CSS3 and JavaScript;
   goal: FullStack Dev;
   hobbies:
     Drawing,
-    Watching Anime,
+    Watching anime,
     Traveling,
     Reading novels;
 }
@@ -22,7 +22,7 @@ whereAmIFrom{
    
 ambitions{
   languages: Japanese;
-  become: tattoo-artist;
+  become: tattoo artist;
 }
 
 funFact{
