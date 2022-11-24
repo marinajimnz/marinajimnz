@@ -37,19 +37,18 @@ funFact{
   
 ## Some things about 42School
 
-  ##Cursus
 [![marinjim's 42 stats](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/stats?cursusId=21&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
   
 Libft: [![marinjim's 42 Libft Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2794226)](https://github.com/marinajimnz/Libft-42Cursus)
 
 Born2berot: ![marinjim's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2838132)
   
-Currently - ft_printf: [![marinjim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2842774)](https://github.com/marinajimnz/ft_printf-42Cursus)
-  
-<br/>  
+Currently - ft_printf: [![marinjim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2842774)](https://github.com/marinajimnz/ft_printf-42Cursus)  
 
-  ##Piscine Discovery Web
+
 [![marinjim's 42 stats](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/stats?cursusId=3&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+ 
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
