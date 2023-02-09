@@ -45,9 +45,11 @@ born2beroot: ![marinjim's 42 Born2beroot Score](https://badge42.vercel.app/api/v
   
 ft_printf: [![marinjim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2842774)](https://github.com/marinajimnz/ft_printf-42Cursus)  
 
- Currently - get_next_line: [![marinjim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2896375)](https://github.com/JaeSeoKim/badge42)
+get_next_line: [![marinjim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2896375)](https://github.com/JaeSeoKim/badge42)
 
 [![marinjim's 42 stats](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/stats?cursusId=3&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+ 
+Currently - minitalk
  
 <br/>
 
