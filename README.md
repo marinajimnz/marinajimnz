@@ -34,9 +34,10 @@ funFact{
 
 </td></tr></table>  
 <div align="center">  
-  
-## Some things about 42School
 
+## Some things about 42School
+</div>
+  
 ````CSS
 42Cursus{
   user: marinjim;
@@ -67,6 +68,8 @@ piscineDiscoveryWeb{
  
  
 <br/>
+
+<div align="center">  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -110,6 +113,6 @@ piscineDiscoveryWeb{
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+</div>    
 
 <br/>  
