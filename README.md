@@ -37,19 +37,33 @@ funFact{
   
 ## Some things about 42School
 
-[![marinjim's 42 stats](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/stats?cursusId=21&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
+````CSS
+42Cursus{
+  user: marinjim;
+  grade: learner;
+  level: 2 - 62%
+}
+   
+projects{
+  libft: scored 123/100;
+  ft_printf: scored 100/100;
+  get_next_line: scored: 125/100;
+  minitalk: scored 125/100;
+}
+   
+currentlyWorkingOn{
+  push_swap: sorting algorithms;
+}
+
+CPiscine{
+  level: 6 - 54%;
+}
   
-Libft: [![marinjim's 42 Libft Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2794226)](https://github.com/marinajimnz/Libft-42Cursus)
+piscineDiscoveryWeb{
+  level: 12 - 46%;
+}
 
-born2beroot: ![marinjim's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2838132)
-  
-ft_printf: [![marinjim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2842774)](https://github.com/marinajimnz/ft_printf-42Cursus)  
-
-get_next_line: [![marinjim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/project/2896375)](https://github.com/JaeSeoKim/badge42)
-
-Currently - minitalk
-
-[![marinjim's 42 stats](https://badge42.vercel.app/api/v2/clamekn1x00350gidanxmk9bz/stats?cursusId=3&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+````
  
  
 <br/>
