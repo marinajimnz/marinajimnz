@@ -6,8 +6,9 @@
 ````CSS
 whoAmI{
   user: marinajimnz;
-  currently: Working on some C projects at 42School,
-             Learning HTML5, CSS3 and JavaScript;
+  currently: Working on some Wordpress projects,
+             Learning React.js;
+             Know HTML, CSS, JS.
   goal: FullStack Dev;
   hobbies:
     Drawing,
