@@ -8,7 +8,8 @@ whoAmI{
   user: marinajimnz;
   currently: Working on some Wordpress projects,
              Learning React.js;
-             Know HTML, CSS, JS;
+             Knowledge: HTML, CSS, JS;
+
   goal: FullStack Dev;
   hobbies:
     Drawing,
