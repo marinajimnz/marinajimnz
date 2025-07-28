@@ -6,8 +6,8 @@
 ````CSS
 whoAmI{
   user: marinajimnz;
-  currently: Studying Multiplatform Application Development,
-  Focused: Java, SQL
+  currently: Studying Multiplatform Application Development;
+  Focused: Java, SQL;
   Knowledge: Java, SQL, HTML, CSS, JS, Astro;
 
   goal: FullStack Dev;
