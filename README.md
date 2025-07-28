@@ -6,9 +6,9 @@
 ````CSS
 whoAmI{
   user: marinajimnz;
-  currently: Working on some Wordpress projects,
-             Learning React.js;
-             Knowledge: HTML, CSS, JS;
+  currently: Studying Multiplatform Application Development,
+  Focused: Java, SQL
+  Knowledge: Java, SQL, HTML, CSS, JS, Astro;
 
   goal: FullStack Dev;
   hobbies:
@@ -52,10 +52,6 @@ projects{
   ft_printf: scored 100/100;
   get_next_line: scored: 125/100;
   minitalk: scored 125/100;
-}
-   
-currentlyWorkingOn{
-  push_swap: sorting algorithms;
 }
 
 CPiscine{
