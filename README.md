@@ -6,9 +6,10 @@
 ````CSS
 whoAmI{
   user: marinajimnz;
-  currently: Studying Multiplatform Application Development;
+  currently: software developer @ Accenture
+  education: Studying Multiplatform Application Development;
   Focused: Java, SQL;
-  Knowledge: Java, SQL, HTML, CSS, JS, Astro;
+  Knowledge: Java, SQL, HTML, CSS, JS, Astro, Python;
 
   goal: FullStack Dev;
   hobbies:
