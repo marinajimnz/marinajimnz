@@ -67,7 +67,7 @@ beyondCode{
 <a href="https://nodejs.org" target="_blank"><img style="margin: 6px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="48" /></a>
 <a href="https://www.mongodb.com" target="_blank"><img style="margin: 6px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="48" /></a>
 <a href="https://www.mysql.com" target="_blank"><img style="margin: 6px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48" /></a>
-<a href="https://mariadb.org" target="_blank"><img style="margin: 6px" src="https://skillicons.dev/icons?i=mariadb" alt="MariaDB" height="48" /></a>
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="48" /></a>  
 </div>
 
 ### Herramientas
