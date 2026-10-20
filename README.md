@@ -6,7 +6,7 @@
 ````CSS
 whoAmI{
   user: marinajimnz;
-  currently: software developer @ Accenture
+  currently: software developer @ Accenture;
   education: Studying Multiplatform Application Development;
   Focused: Java, SQL;
   Knowledge: Java, SQL, HTML, CSS, JS, Astro, Python;
